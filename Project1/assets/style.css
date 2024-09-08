@@ -313,48 +313,58 @@ a{
 
   #item11{
     top: -41%;
+    box-shadow: 3px 3px #ff3c00;
   }
 
   #item17{
     top: -23%;
+    box-shadow: 3px 3px yellow;
   }
 
   #item13{
     top: -5%;
+    box-shadow: 3px 3px #16c3c9;
   }
 
   #item14{
     top: -41%;
     left: 15%;
+    box-shadow: 3px 3px yellow;
   }
 
   #item15{
     top: -23%;
     left: 15%;
+    box-shadow: 3px 3px #16c3c9;
   }
 
   #item16{
     top: -5%;
     left: 15%;
+    box-shadow: 3px 3px #ff3c00;
   }
 
   #item12{
     top: -58%;
     left: 15%;
+    box-shadow: 3px 3px #ff3c00;
   }
 
 
   #item19{
     top: -83%;
     left: 90%;
+    box-shadow: 3px 3px #16c3c9;
   }
 
   #item20{
     top: -65%;
     left: 90%;
+    box-shadow: 3px 3px #ff3c00;
   }
 
   #item18{
     top: -47%;
     left: 90%;
+    box-shadow: 3px 3px yellow;
   }
