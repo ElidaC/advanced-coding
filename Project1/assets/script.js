@@ -1,3 +1,5 @@
+/* core1 interaction class */
+
 let button = document.querySelector(".button");
 let colors = ["#16c3c9"];
 let body = document.querySelector("body");
@@ -25,6 +27,7 @@ button.addEventListener("click", newColor);
   
 
 
+/* core2 interaction class - refined ChatGPT */
 
 function allowDrop(ev) {
     ev.preventDefault();
